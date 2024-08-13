@@ -80,6 +80,60 @@ assets:
     method: copy
     source:
     - name: remastered/QHD.dds
+  - name: field2d/us/zz0command.2dd
+    method: binarc
+    platform: pc
+    source:
+    - name: comw
+      type: seqd
+      method: copy
+      source:
+        - name: field2d/comw_0.sqd
+  - name: field2d/fr/zz0command.2dd
+    method: binarc
+    platform: pc
+    source:
+    - name: comw
+      type: seqd
+      method: copy
+      source:
+        - name: field2d/comw_0.sqd
+  - name: field2d/gr/zz0command.2dd
+    method: binarc
+    platform: pc
+    source:
+    - name: comw
+      type: seqd
+      method: copy
+      source:
+        - name: field2d/comw_0.sqd
+  - name: field2d/sp/zz0command.2dd
+    method: binarc
+    platform: pc
+    source:
+    - name: comw
+      type: seqd
+      method: copy
+      source:
+        - name: field2d/comw_0.sqd
+  - name: field2d/it/zz0command.2dd
+    method: binarc
+    platform: pc
+    source:
+    - name: comw
+      type: seqd
+      method: copy
+      source:
+        - name: field2d/comw_0.sqd
+  - name: field2d/jp/zz0command.2dd
+    method: binarc
+    platform: pc
+    source:
+    - name: comw
+      type: seqd
+      method: copy
+      source:
+        - name: field2d/comw_0.sqd
   - name: msg/us/sys.bar
     method: binarc
     source:
@@ -88,4 +142,49 @@ assets:
         method: kh2msg
         source:
           - name: msg/sys.yml
-            language: us
+            language: en
+  - name: msg/fr/sys.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/sys.yml
+            language: fr
+  - name: msg/gr/sys.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/sys.yml
+            language: gr
+  - name: msg/it/sys.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/sys.yml
+            language: it
+  - name: msg/sp/sys.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/sys.yml
+            language: sp
+  - name: msg/jp/sys.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/sys.yml
+            language: jp
