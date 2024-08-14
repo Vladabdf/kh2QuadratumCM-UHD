@@ -1,7 +1,43 @@
 - id: 0x3735
   en: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
-  jp: '{:icon gem-orichalcum}クァッドラトゥム {:icon gem-orichalcum}'
-  fr: '{:icon gem-orichalcum}Carré{:icon gem-orichalcum}'
-  gr: '{:icon gem-orichalcum}Quadrat{:icon gem-orichalcum}'
-  it: '{:icon gem-orichalcum}Piazza{:icon gem-orichalcum}'
-  sp: '{:icon gem-orichalcum}Cuadrado{:icon gem-orichalcum}'
+  jp: '{:icon gem-orichalcum}クァッドラトゥム{:icon gem-orichalcum}'
+  fr: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
+  gr: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
+  it: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
+  sp: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
+- id: 0x3737
+  en:
+    'Use a command menu reminiscent of a
+
+    time and place, both familiar and yet
+
+    eerily enigmatic.'
+  jp:
+    '時間と場所を彷彿とさせるコマンドメニューを使用し、
+
+    見慣れたものでありながら不気味な謎めいたものを使用してください。'
+  fr:
+    'Use a command menu reminiscent of a
+
+    time and place, both familiar and yet
+
+    eerily enigmatic.'
+  gr:
+    'Use a command menu reminiscent of a
+
+    time and place, both familiar and yet
+
+    eerily enigmatic.'
+  it:
+    'Use a command menu reminiscent of a
+
+    time and place, both familiar and yet
+
+    eerily enigmatic.'
+  sp:
+    'Use a command menu reminiscent of a
+
+    time and place, both familiar and yet
+
+    eerily enigmatic.'
+  
