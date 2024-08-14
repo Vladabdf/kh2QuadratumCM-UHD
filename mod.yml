@@ -31,7 +31,6 @@ assets:
       - name: msg/gr/sys.bar
       - name: msg/sp/sys.bar
       - name: msg/it/sys.bar
-      - name: msg/jp/sys.bar
     method: binarc
     source:
       - name: sys
@@ -44,4 +43,3 @@ assets:
             language: fr
             language: gr
             language: it
-            language: jp
