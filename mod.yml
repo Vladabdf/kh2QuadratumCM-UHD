@@ -1,6 +1,6 @@
-title: Quadratum Command Menu (KH1)
+title: Quadratum Command Menu (UHD)
 originalAuthor: Vladabdf
-description: Replace the KH1-style Command Menu with the stylish & iconic KH3 Quadratum menu!
+description: Replace the KH1-style Command Menu with the stylish & iconic KH3 Quadratum menu! (Currently only supports resolutions higher than 1920x1080!)
 assets:
 # Begin: menu replacement
   - name: field2d/us/zz0command.2dd
@@ -22,6 +22,42 @@ assets:
     method: copy
     source:
     - name: remastered/QHD_us.dds
+# FR
+  - name: remastered/field2d/fr/zz0command.2dd/~0.dds
+    method: copy
+    source:
+    - name: remastered/QHD_fr.dds
+# DE
+  - name: remastered/field2d/gr/zz0command.2dd/~0.dds
+    method: copy
+    source:
+    - name: remastered/QHD_de.dds
+# SP
+  - name: remastered/field2d/sp/zz0command.2dd/~0.dds
+    method: copy
+    source:
+    - name: remastered/QHD_es.dds
+# IT
+  - name: remastered/field2d/it/zz0command.2dd/~0.dds
+    method: copy
+    source:
+    - name: remastered/QHD_it.dds
+# JP
+  - name: remastered/field2d/jp/zz0command.2dd/~0.dds
+    method: copy
+    source:
+    - name: remastered/QHD_jp.dds
+# Translation mod support - Currently awaiting release
+# CA - Catalan
+#  - name: remastered/field2d/ca/zz0command.2dd/~0.dds
+#    method: copy
+#    source:
+#    - name: remastered/QHD_ca.dds
+# TR - Turkish
+#  - name: remastered/field2d/tr/zz0command.2dd/~0.dds
+#    method: copy
+#    source:
+#    - name: remastered/QHD_tr.dds
 # Begin: MSG replacement
   - name: msg/us/sys.bar
     multi:
@@ -29,6 +65,8 @@ assets:
       - name: msg/gr/sys.bar
       - name: msg/sp/sys.bar
       - name: msg/it/sys.bar
+#      - name: msg/ca/sys.bar # Catalan
+#      - name: msg/tr/sys.bar # Turkish
     method: binarc
     source:
       - name: sys
@@ -41,3 +79,5 @@ assets:
             language: fr
             language: gr
             language: it
+#            language: ca # Catalan
+#            language: tr # Turkish

@@ -4,6 +4,9 @@
   gr: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
   it: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
   sp: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
+# Translation mod support - Currently awaiting release
+#  ca: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}' # Catalan
+#  tr: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}' # Turkish
 - id: 0x3737
   en: >-
     Use a command menu reminiscent of a
@@ -35,3 +38,16 @@
     de una época y un lugar, familiares y a
 
     la vez inquietantemente enigmáticos.
+# Translation mod support - Currently awaiting release
+#  ca: >- # Catalan
+#    Utilitza un menú d'ordres reminiscent
+#
+#    d'una època i un lloc, familiars i
+#
+#    alhora inquietantment enigmàtics.
+#  tr: >- # Turkish
+#    Aşırı gizem dolu ancak garip bir
+#
+#    şekilde tanıdık olan bir yer ve zamanı
+#
+#    andıran bir Komut Menüsü stilini kullan.
