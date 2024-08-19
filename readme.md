@@ -1,6 +1,6 @@
 # Replaces KH1 Command Menu
 
-## This is the UHD (1440p and above)
+## This is the UHD version (1440p and above)
 
 ### This means it will look extremely sharp, possibly jagged if you use it on resolutions lower than 1440p.
 
