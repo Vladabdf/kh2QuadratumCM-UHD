@@ -1,11 +1,7 @@
-# Currently WIP - Please do not report anything that is broken.
-
----
-
 ## Replaces KH1 Command Menu
 
-> ### This is the UHD version (1440p and above)
-> > ### This means it will look extremely sharp, possibly jagged if you use it on resolutions lower than 1440p.
+> ### This is the UHD version.
+> > ### This means it will look extremely sharp, possibly jagged if you use it on resolutions lower than ~1200p. If you use a screen with a resolution lower than that, please use the [standard version here.](https://github.com/Vladabdf/kh2QuadratumCM)
 
 ---
 
