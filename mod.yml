@@ -10,20 +10,18 @@ assets:
       - name: field2d/sp/zz0command.2dd
       - name: field2d/it/zz0command.2dd
       - name: field2d/jp/zz0command.2dd
+#      - name: field2d/tr/zz0command.2dd # Turkish
+#      - name: field2d/ca/zz0command.2dd # Catalan
+#      - name: field2d/br-pt/zz0command.2dd # Brazilian Portuguese
     method: copy
     source:
-    - name: field2d/zz0command_us.2dd # Other languages coming soon(tm)
+    - name: field2d/zz0command.2dd
 # Begin: HD texture replacement
+# US
   - name: remastered/field2d/us/zz0command.2dd/~0.dds
-    multi:
-      - name: remastered/field2d/fr/zz0command.2dd/~0.dds
-      - name: remastered/field2d/gr/zz0command.2dd/~0.dds
-      - name: remastered/field2d/sp/zz0command.2dd/~0.dds
-      - name: remastered/field2d/it/zz0command.2dd/~0.dds
-      - name: remastered/field2d/jp/zz0command.2dd/~0.dds
     method: copy
     source:
-    - name: remastered/QHD.dds
+    - name: remastered/QHD_us.dds
 # Begin: MSG replacement
   - name: msg/us/sys.bar
     multi:

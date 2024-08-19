@@ -5,34 +5,33 @@
   it: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
   sp: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
 - id: 0x3737
-  en:
-    'Use a command menu reminiscent of a
+  en: >-
+    Use a command menu reminiscent of a
 
     time and place, both familiar and yet
 
-    eerily enigmatic.'
-  fr:
-    'Use a command menu reminiscent of a
+    eerily enigmatic.
+  fr: >-
+    Le menu des commandes prend une
+
+    apparence venue d'un lieu familier
+
+    mais enigmatique.
+  gr: >- 
+    Use a command menu reminiscent of a
 
     time and place, both familiar and yet
 
-    eerily enigmatic.'
-  gr:
-    'Use a command menu reminiscent of a
+    eerily enigmatic.
+  it: >-
+    Use a command menu reminiscent of a
 
     time and place, both familiar and yet
 
-    eerily enigmatic.'
-  it:
-    'Use a command menu reminiscent of a
+    eerily enigmatic.
+  sp: >-
+    Usa un menú de comandos reminiscente
 
-    time and place, both familiar and yet
+    de una época y un lugar, familiares y a
 
-    eerily enigmatic.'
-  sp:
-    'Use a command menu reminiscent of a
-
-    time and place, both familiar and yet
-
-    eerily enigmatic.'
-  
+    la vez inquietantemente enigmáticos.
