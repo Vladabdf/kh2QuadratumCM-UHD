@@ -1,6 +1,6 @@
-title: Quadratum Command Menu (UHD)
+title: (UHD) Quadratum Command Menu
 originalAuthor: Vladabdf
-description: Replace the KH1-style Command Menu with the stylish & iconic KH3 Quadratum menu! (Currently only supports resolutions higher than 1920x1080!)
+description: Replace the KH1-style Command Menu with the stylish & iconic KH3 Quadratum menu! (This version targets 1200p resolutions and above!)
 assets:
 # Begin: menu replacement
   - name: field2d/us/zz0command.2dd
@@ -74,10 +74,10 @@ assets:
         method: kh2msg
         source:
           - name: msg/sys.yml
-            language: en
-            language: sp
-            language: fr
-            language: gr
-            language: it
+#            language: en
+#            language: sp
+#            language: fr
+#            language: gr
+#            language: it
 #            language: ca # Catalan
 #            language: tr # Turkish
