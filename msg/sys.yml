@@ -1,9 +1,9 @@
 - id: 0x3735
-  en: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
-  fr: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
-  gr: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
-  it: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
-  sp: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}'
+  en: '{:icon gem-orichalcum}{:width 70}Quadratum{:icon gem-orichalcum}'
+  fr: '{:icon gem-orichalcum}{:width 70}Quadratum{:icon gem-orichalcum}'
+  gr: '{:icon gem-orichalcum}{:width 70}Quadratum{:icon gem-orichalcum}'
+  it: '{:icon gem-orichalcum}{:width 70}Quadratum{:icon gem-orichalcum}'
+  sp: '{:icon gem-orichalcum}{:width 70}Quadratum{:icon gem-orichalcum}'
 # Translation mod support - Currently awaiting release
 #  ca: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}' # Catalan
 #  tr: '{:icon gem-orichalcum}Quadratum{:icon gem-orichalcum}' # Turkish
